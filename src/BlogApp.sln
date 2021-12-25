@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlogApp", "BlogApp\BlogApp.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.UITest", "BlogApp.UITest\BlogApp.UITest.csproj", "{A5D1BCA0-95DE-4134-87C3-005AF74A74B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.UnitTest", "BlogApp.UnitTest\BlogApp.UnitTest.csproj", "{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,18 @@ Global
 		{A5D1BCA0-95DE-4134-87C3-005AF74A74B5}.Release|iPhone.Build.0 = Release|Any CPU
 		{A5D1BCA0-95DE-4134-87C3-005AF74A74B5}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
 		{A5D1BCA0-95DE-4134-87C3-005AF74A74B5}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Release|iPhone.Build.0 = Release|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{9FD8CAAB-4123-4400-BD0E-505E58B29DD3}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
